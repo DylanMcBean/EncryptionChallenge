@@ -188,7 +188,7 @@ void XOR(char* arr1, char* arr2, char amount)
 }
 
 int main()
-{ //Dont complain about the lack of comments if its such an issue fuck off
+{ //Dont complain about the lack of comments if its such an issue dont do it
     keys_struct keys; //its a key obviously
     keys = get_gates(generate_key("password")); //Enter Password where it says password. duh
     unsigned char* lHash = generate_lHash(keys.bitKey128);
