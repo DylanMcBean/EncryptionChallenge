@@ -1,2 +1,6 @@
 # EncryptionChallenge
-hey. tell me what is inside the second_file.out and win. obviously you need to decrypt it not just tell me the bunch of junk in it just now. well have fun :)
+Key I've made a CTF Encryption challenge. all you need to do is get the flag from the encrypted file.  
+the encrypted file is located at: **Encryption/x64/Release/test.txt.pdea**.  
+I have named my algorithm PDEA (Pyros Data Encryption Algorithm).  
+- The Block size for my algorithm is 576 bits.  
+- The Key size for my algorithm is 512 bits.
